@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>MAIN</title>
     <style>
         body {
             font-family: Arial, sans-serif;
